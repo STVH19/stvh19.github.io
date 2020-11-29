@@ -19,7 +19,7 @@ This application enables to explore the Our World in Data COVID-19 dataset. The 
 Our World in Data COVID-19 dataset
 ========================================================
 
-The datasource used for the project is the Our World in Data COVID-19 dataset.You find the complete Our World in Data COVID-19 dataset—together with a complete overview of our sources and more—at the Our wolrd in Data GitHub repository [here](https://ourworldindata.org/coronavirus-source-data#testing-the-our-world-in-data-testing-database)
+The data source used for the project is the Our World in Data COVID-19 dataset.You find the complete Our World in Data COVID-19 dataset—together with a complete overview of our sources and more—at the Our wolrd in Data GitHub repository [here](https://ourworldindata.org/coronavirus-source-data#testing-the-our-world-in-data-testing-database)
 
 Our World in Data relies on data from the European CDC. The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. They rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries. The European CDC data provides a global perspective on the evolving pandemic (source: Our World in Data)
 
